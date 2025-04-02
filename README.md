@@ -26,7 +26,7 @@ Nomad Nest es una aplicación móvil diseñada para viajeros que buscan experien
 ## 📸 Capturas de pantalla
 
 ### 🔐 Pantalla de Login
-![Pantalla de Login]((https://github.com/Rociomartos29/RocioMartos29/blob/792b08d898bbeb7cb722554d32d2f37089ac34a7/Captura%20de%20pantalla%202025-04-02%20a%20las%2019.30.17.png))
+![Pantalla de Login] (https://github.com/Rociomartos29/RocioMartos29/blob/792b08d898bbeb7cb722554d32d2f37089ac34a7/Captura%20de%20pantalla%202025-04-02%20a%20las%2019.30.17.png)
 Pantalla de inicio de sesión donde los usuarios pueden acceder a su cuenta o registrarse para empezar a planear sus viajes.
 
 ### 🏠 Pantalla de Inicio
