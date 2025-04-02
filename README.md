@@ -26,23 +26,23 @@ Nomad Nest es una aplicación móvil diseñada para viajeros que buscan experien
 ## 📸 Capturas de pantalla
 
 ### 🔐 Pantalla de Login
-![Pantalla de Login](Captura de pantalla 2025-04-02 a las 19.30.17.png)
+![Pantalla de Login]((https://github.com/Rociomartos29/RocioMartos29/blob/792b08d898bbeb7cb722554d32d2f37089ac34a7/Captura%20de%20pantalla%202025-04-02%20a%20las%2019.30.17.png))
 Pantalla de inicio de sesión donde los usuarios pueden acceder a su cuenta o registrarse para empezar a planear sus viajes.
 
 ### 🏠 Pantalla de Inicio
-![Pantalla de Inicio](Captura de pantalla 2025-04-02 a las 19.26.17.png)
+![Pantalla de Inicio]((https://github.com/Rociomartos29/RocioMartos29/blob/792b08d898bbeb7cb722554d32d2f37089ac34a7/Captura%20de%20pantalla%202025-04-02%20a%20las%2019.26.17.png))
 La pantalla principal da la bienvenida al usuario y le permite buscar destinos, seleccionar fechas y configurar el número de pasajeros.
 
 ### 🌍 Destinos Destacados
-![Destinos Destacados](Captura de pantalla 2025-04-02 a las 19.26.29.png)
+![Destinos Destacados](https://github.com/Rociomartos29/RocioMartos29/blob/792b08d898bbeb7cb722554d32d2f37089ac34a7/Captura%20de%20pantalla%202025-04-02%20a%20las%2019.26.29.png)
 Muestra una lista de destinos populares organizados en categorías como **Aventura, Cultura, Historia y Naturaleza**.
 
 ### 🔍 Exploración de Lugares
-![Exploración de Lugares](Captura de pantalla 2025-04-02 a las 19.26.51.png), (Captura de pantalla 2025-04-02 a las 19.27.00.png)
+![Exploración de Lugares]((https://github.com/Rociomartos29/RocioMartos29/blob/792b08d898bbeb7cb722554d32d2f37089ac34a7/Captura%20de%20pantalla%202025-04-02%20a%20las%2019.26.51.png)(https://github.com/Rociomartos29/RocioMartos29/blob/792b08d898bbeb7cb722554d32d2f37089ac34a7/Captura%20de%20pantalla%202025-04-02%20a%20las%2019.27.00.png))
 Aquí el usuario puede ver detalles de cada destino con imágenes llamativas y descripciones.
 
 ### 🏨 Hoteles Encontrados
-![Hoteles Encontrados](Captura de pantalla 2025-04-02 a las 19.27.57.png)
+![Hoteles Encontrados]((https://github.com/Rociomartos29/RocioMartos29/blob/792b08d898bbeb7cb722554d32d2f37089ac34a7/Captura%20de%20pantalla%202025-04-02%20a%20las%2019.27.57.png))
 Lista de hoteles disponibles en la ciudad seleccionada, con precios y opciones para reservar.
 
 ---
